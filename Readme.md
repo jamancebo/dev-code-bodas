@@ -25,7 +25,7 @@ Podeis ver que he utilizado
     Crearía nuevos índices en base de datos para agilizar la consulta, rebancearia la carga en diferentes cargas para no sobrecargar y se podrían realizar sentencias a redis. 
 
 # **Prerquisitos**
-
+Hay que dirigirse a la carpeta app y desde el cmd copiar el directorio: https://github.com/jamancebo/app-code-bodas.git
 Cuando se levante docker hay que crear una bd igual que la que realiza docker pero con el nombre de dev_bodas_test para los test
 
 
